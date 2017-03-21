@@ -1,0 +1,18 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+
+
+
+int main()
+{
+	setlocale(0, "");
+
+	//עוכמ ןנמדנאללû
+
+
+	system("pause");
+	return 0;
+}
